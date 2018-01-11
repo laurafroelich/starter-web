@@ -1,2 +1,4 @@
 .DS_Store
 wanttoignore.txt
+*.log
+log/
