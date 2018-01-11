@@ -2,3 +2,4 @@
 wanttoignore.txt
 *.log
 log/
+*.orig
