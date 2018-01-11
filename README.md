@@ -16,7 +16,9 @@ The purpose is to provide a simple demo.
 
 This is is a simple web project, deployment can be on any web server or even local file.
 
-## How To
+## How To Contribute
+
+Please fork this repository and then issue Pull Requests for review.
 
 Sample website with plenty of files for demos
 
