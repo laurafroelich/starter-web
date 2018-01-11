@@ -10,7 +10,11 @@ This is the introduction section.
 
 ## Purpose
 
+The purpose is to provide a simple demo.
+
 ## Deployment
+
+This is is a simple web project, deployment can be on any web server or even local file.
 
 ## How To
 
