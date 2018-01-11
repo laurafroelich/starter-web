@@ -19,3 +19,6 @@ This is is a simple web project, deployment can be on any web server or even loc
 ## How To
 
 Sample website with plenty of files for demos
+
+## Copyright
+copyright notice
